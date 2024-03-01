@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.db62923b.css",
-    "main.js": "/static/js/main.77e202f7.js",
-    "index.html": "/index.html",
-    "main.db62923b.css.map": "/static/css/main.db62923b.css.map",
-    "main.77e202f7.js.map": "/static/js/main.77e202f7.js.map"
+    "main.css": "/react-local-tasks-test/static/css/main.db62923b.css",
+    "main.js": "/react-local-tasks-test/static/js/main.77e202f7.js",
+    "index.html": "/react-local-tasks-test/index.html",
+    "main.db62923b.css.map": "/react-local-tasks-test/static/css/main.db62923b.css.map",
+    "main.77e202f7.js.map": "/react-local-tasks-test/static/js/main.77e202f7.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
